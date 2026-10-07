@@ -2,7 +2,7 @@
 
 > *“made with attention, not perfection.”*
 
-A quiet, mobile-first interactive experience made by Samir for Intie.
+A quiet, mobile-first interactive experience made by Samir for Inti.
 
 ---
 

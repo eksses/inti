@@ -1,7 +1,7 @@
 export const FINAL_LETTER = {
   title: "For you.",
   subtitle: "In the quietest corner of the room",
-  salutation: "Intie,",
+  salutation: "Inti,",
   paragraphs: [
     "You don’t have to perform happiness here. You don’t have to keep your voice level, or arrange your thoughts into neat paragraphs before you speak, or pretend that the sarcasm makes you bulletproof.",
     "If your brain wants to sprint through seven catastrophic scenarios at two in the morning, let it run until it tires out. I won't tell you you're being irrational, and I won't try to solve things that just need a quiet witness. You don’t have to explain every pause, or apologize for going quiet when the world gets loud.",

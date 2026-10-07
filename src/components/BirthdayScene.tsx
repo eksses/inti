@@ -100,7 +100,7 @@ export const BirthdayScene: React.FC = () => {
               {/* Cream dripping rim */}
               <div className="absolute top-0 left-0 right-0 h-2 bg-paper-cream/20 rounded-b-md" />
               <span className="text-[10px] font-serif text-accent tracking-widest uppercase opacity-75">
-                Intie
+                Inti
               </span>
             </div>
 

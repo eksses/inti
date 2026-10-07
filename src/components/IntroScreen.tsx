@@ -83,7 +83,7 @@ export const IntroScreen: React.FC<IntroScreenProps> = ({ onEnter }) => {
             <ArrowRight size={15} className="text-accent group-hover:translate-x-1 transition-transform" />
           </button>
           <p className="text-[10px] font-mono text-center text-paper-muted/40 mt-3">
-            built for Intie by Samir
+            built for Inti by Samir
           </p>
         </div>
       )}

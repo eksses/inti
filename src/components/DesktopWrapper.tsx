@@ -16,7 +16,7 @@ export const DesktopWrapper: React.FC<DesktopWrapperProps> = ({ children }) => {
         {/* Quiet desktop context notice in the top corner */}
         <div className="absolute top-6 left-8 flex items-center space-x-2 text-paper-muted/50 text-xs font-serif italic">
           <Moon size={14} className="text-moon/60" />
-          <span>a quiet room made for Intie</span>
+          <span>a quiet room made for Inti</span>
         </div>
 
         {/* Gentle desktop footnote */}

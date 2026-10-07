@@ -37,8 +37,8 @@ export interface ProfileData {
 }
 
 export const PROFILE_DATA: ProfileData = {
-  name: "Intie",
-  affectionateNames: ["Intie", "my Intie", "my girl", "the person this little place belongs to"],
+  name: "Inti",
+  affectionateNames: ["Inti", "my Inti", "my girl", "the person this little place belongs to"],
   birthday: {
     month: "September",
     day: 26,

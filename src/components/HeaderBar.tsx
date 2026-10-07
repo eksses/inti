@@ -23,7 +23,7 @@ export const HeaderBar: React.FC<HeaderBarProps> = ({
       {/* Title / Identity */}
       <div className="flex items-center space-x-2">
         <span className="font-serif italic text-sm text-paper-cream tracking-wide">
-          Intie
+          Inti
         </span>
         <span className="text-[10px] font-mono text-paper-muted/50">•</span>
         <span className="text-[10px] font-mono text-paper-muted/60 uppercase tracking-widest">

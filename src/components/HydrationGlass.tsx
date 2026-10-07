@@ -84,7 +84,7 @@ export const HydrationGlass: React.FC<HydrationGlassProps> = ({ onTap, compact =
       {showMessage && (
         <div className="mt-3 text-center transition-all duration-500 animate-fadeIn">
           <p className="font-serif italic text-paper-cream text-sm tracking-wide">
-            “Drink some water, Intie.”
+            “Drink some water, Inti.”
           </p>
           <p className="text-[11px] text-paper-muted/80 mt-0.5 font-sans">
             {sipCount === 1
